@@ -68,6 +68,11 @@ container: after{
 		width:1170px;
 	}
 }
+@media (min-width: 1920px) {
+	.container {
+		width:1880px;
+	}
+}
 
 /* HEADER */
  header {
