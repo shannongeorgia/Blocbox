@@ -290,4 +290,7 @@ container: after{
  	text-align: left;
  	font-size: 13px;
  	margin-top: 30px;
-
+ }
+ .testimonials li.down{
+ 	margin-top: 20px;
+ }
