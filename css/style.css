@@ -448,6 +448,10 @@ p{
    margin-top:8px;
  }
 
+ .left-nav .active {
+ 	background-color: #2C3539;
+ }
+
  /* CONTENT */
  .content {
    padding:6em 1% 1.5em;
@@ -535,7 +539,7 @@ p{
      margin:0 1% 25px;
    }
  }
- 
+
 
  .item-box > img {
    position:absolute;
